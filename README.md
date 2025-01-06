@@ -10,7 +10,7 @@ AI for THAI Stock Recommendation Systems
 
 
 
-Members:
-1.Tanakan Jakthamrong 6620422022
-2.Benya Nitikrainon 6620422028
-3.Supanida Kamkrathoke 6620422033
+Members:<br>
+1. Tanakan Jakthamrong 6620422022<br>
+2. Benya Nitikrainon 6620422028<br>
+3. Supanida Kamkrathoke 6620422033
