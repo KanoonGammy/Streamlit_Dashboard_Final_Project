@@ -1,5 +1,5 @@
 # Streamlit_Dashboard_Final_Project
-Thai Stocks Analysis
+AI for THAI Stock Recommendation Systems
 
 1. Run fetch_data.py
 
