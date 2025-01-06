@@ -7,3 +7,10 @@ AI for THAI Stock Recommendation Systems
 1. Run fetch_data.py
 
 2. streamlit run Main.py
+
+
+
+Members:
+1.Tanakan Jakthamrong 6620422022
+2.Benya Nitikrainon 6620422028
+3.Supanida Kamkrathoke 6620422033
