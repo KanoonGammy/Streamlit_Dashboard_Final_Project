@@ -17,7 +17,10 @@ pip install vectorbt
 pip install seaborn
 
 
+`yfinance` is a library for downloading historical financial data such as stock prices, indices, and more.
 
+```bash
+pip install yfinance
 
 
 1. Run fetch_data.py
