@@ -16,11 +16,11 @@ Follow the steps below to install the necessary Python libraries:
 
 ### 1.Install `yfinance` for Financial Data
 
-bash
+```
 pip install yfinance
 
 ### 2.Install `yfinance` for Financial Data
-bash
+```
 pip install pandas_ta
 
 
