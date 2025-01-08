@@ -6,7 +6,7 @@
 
 # AI for THAI Stock Recommendation Systems
 
-This project provides tools for financial data analysis, technical analysis, and visualization.
+This project provides tools for financial data analysis, technical analysis, visualization, and AI to offer deeper insights into stock performance.
 
 ---
 
@@ -46,7 +46,7 @@ Start the visualization and analysis app with Streamlit:
 streamlit run Main.py
 ```
 
-
+---
 
 Members:<br>
 1. Tanakan Jakthamrong 6620422022<br>
