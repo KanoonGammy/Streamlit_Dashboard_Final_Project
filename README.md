@@ -6,7 +6,7 @@
 
 # AI for THAI Stock Recommendation Systems
 
-This project provides tools and scripts for financial data analysis, technical analysis, backtesting, and visualization.
+This project provides tools for financial data analysis, technical analysis, and visualization.
 
 ---
 
