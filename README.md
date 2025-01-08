@@ -4,17 +4,21 @@ AI for THAI Stock Recommendation Systems
 
 ![Poster Image](https://github.com/KanoonGammy/Streamlit_Dashboard_Final_Project/blob/249780717ed34c07308da7e8e796f266b1a4eb2e/Poster%20-%20Summary.png)
 
-### Install yfinance for financial data
-```bash pip install yfinance bash
+# Financial Data Analysis and Visualization
 
-### Install pandas_ta for technical analysis
-pip install pandas_ta
+This project provides tools and scripts for financial data analysis, technical analysis, backtesting, and visualization.
 
-### Install vectorbt for backtesting and quantitative analysis
-pip install vectorbt
+---
 
-### Install seaborn for data visualization
-pip install seaborn
+## Installation
+
+Follow the steps below to install the necessary Python libraries:
+
+### Install `yfinance` for Financial Data
+Fetch historical market data using `yfinance`.
+
+```bash
+pip install yfinance
 
 
 
