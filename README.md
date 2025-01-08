@@ -23,10 +23,14 @@ pip install yfinance
 ```
 pip install pandas_ta
 ```
-
-
-
-
+### 3.Install `vectorbt` for Backtesting and Quantitative Analysis
+```
+pip install vectorbt
+```
+### 3.Install `seaborn` for Data Visualization
+```
+pip install seaborn
+```
 
 1. Run fetch_data.py
 
