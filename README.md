@@ -1,10 +1,10 @@
 # Streamlit_Dashboard_Final_Project
-AI for THAI Stock Recommendation Systems
+
 
 
 ![Poster Image](https://github.com/KanoonGammy/Streamlit_Dashboard_Final_Project/blob/249780717ed34c07308da7e8e796f266b1a4eb2e/Poster%20-%20Summary.png)
 
-# Financial Data Analysis and Visualization
+# AI for THAI Stock Recommendation Systems
 
 This project provides tools and scripts for financial data analysis, technical analysis, backtesting, and visualization.
 
