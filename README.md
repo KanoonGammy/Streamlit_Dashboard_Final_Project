@@ -14,13 +14,14 @@ This project provides tools and scripts for financial data analysis, technical a
 
 Follow the steps below to install the necessary Python libraries:
 
-### Install `yfinance` for Financial Data
-Fetch historical market data using `yfinance`.
+### 1.Install `yfinance` for Financial Data
 
-```bash
+bash
 pip install yfinance
 
-
+### 2.Install `yfinance` for Financial Data
+bash
+pip install pandas_ta
 
 
 
