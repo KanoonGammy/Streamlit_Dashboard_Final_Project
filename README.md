@@ -27,14 +27,24 @@ pip install pandas_ta
 ```
 pip install vectorbt
 ```
-### 3.Install `seaborn` for Data Visualization
+### 4.Install `seaborn` for Data Visualization
 ```
 pip install seaborn
 ```
 
-1. Run fetch_data.py
+## Usage
+### 1. Run the Data Fetching Script
+Use the following command to fetch data from financial APIs:
 
-2. streamlit run Main.py
+```
+python fetch_data.py
+```
+### 2. Run the Main Application
+Start the visualization and analysis app with Streamlit:
+
+```
+streamlit run Main.py
+```
 
 
 
