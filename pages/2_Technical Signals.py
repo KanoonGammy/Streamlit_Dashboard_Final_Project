@@ -14,7 +14,7 @@ import numpy as np
 import importlib.util
 from select_market import select_market
 # st.set_page_config(layout="wide")
-from Main import search_menu
+# from Main import search_menu
 
 st.header("APG Station: Technical Signals")
 
