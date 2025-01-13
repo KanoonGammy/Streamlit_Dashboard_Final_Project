@@ -10,7 +10,7 @@ GOOGLE_API_KEY=os.environ.get('GOOGLE_API_KEY') #ไฟล์นามสกุ�
 genai.configure(api_key=GOOGLE_API_KEY)
 
 new_chat_id = datetime.fromtimestamp(time.time()).strftime("%Y-%m-%d-%Hh-%Mm-%Ss")
-
+st.session_state.chat_id = new_chat_id
 MODEL_ROLE = 'ai'
 AI_AVATAR_ICON = '🐯'
 
