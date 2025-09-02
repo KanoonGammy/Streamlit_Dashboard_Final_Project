@@ -31,6 +31,10 @@ pip install vectorbt
 ```
 pip install seaborn
 ```
+### 5. Install `numpy` for PANDAS-TA 
+```
+pip install numpy==1.26.4
+```
 
 ## Usage
 ### 1. Run the Data Fetching Script
